@@ -1,5 +1,6 @@
-### Hi there 👋 I'm Hongzip! Fourth year CS and Stats student at the University of Toronto!
-#### 💼 Currently doing a 16 month co-op at CIBC as a Product Support Specialist
+### Hi there 👋 I'm Hongzip! Fifth year CS and Stats student at the University of Toronto!
+#### 💼 Recently completed a 16 month co-op at CIBC as a Product Support Specialist, currently working part time as a Reporting Analyst.
+#### Fun fact: I love bubble tea! 🧋
 
 <!--
 **hongzipkim/hongzipkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
