@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Hongzip! Fifth year CS and Stats student at the University of Toronto!
+### Hi there 👋 I'm Hongzip! 4th year CS and Stats student at the University of Toronto!
 #### 💼 Recently completed a 16 month co-op at CIBC as a Product Support Specialist, currently working part time as a Reporting Analyst.
 #### Fun fact: I love bubble tea! 🧋
 
